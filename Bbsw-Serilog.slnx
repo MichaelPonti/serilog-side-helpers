@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Serilog-Sinks-Console/">
+    <Project Path="../serilog-sinks-console/src/Serilog.Sinks.Console/Serilog.Sinks.Console.csproj" />
+  </Folder>
+  <Folder Name="/Serilog-Sinks-Debug/">
+    <Project Path="../serilog-sinks-debug/src/Serilog.Sinks.Debug/Serilog.Sinks.Debug.csproj" />
+  </Folder>
+  <Folder Name="/Serilog-Sinks-File/">
+    <Project Path="../serilog-sinks-file/src/Serilog.Sinks.File/Serilog.Sinks.File.csproj" />
+  </Folder>
+  <Folder Name="/Serilog/">
+    <Project Path="../serilog/src/Serilog/Serilog.csproj" />
+  </Folder>
+</Solution>
