@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bbsw-Serilog/4.3.1": {
+        "runtime": {
+          "Bbsw-Serilog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bbsw-Serilog/4.3.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
